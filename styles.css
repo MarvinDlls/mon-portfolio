@@ -242,11 +242,15 @@ header.sticky{
     margin: 20px;
 }
 
-.wrap{
+.img{
     display: flex;
     align-items: center;
     gap: 10px;
-    padding: 80px 20px 66px;
+    padding: 10px 10px 5px;
+    margin: 10px;
+    clear: both;
+    height: 300px;
+    overflow: auto;
 }
 
 .portfolio{
@@ -518,3 +522,4 @@ form .send-btn:hover{
         margin: 0 auto;
     }
 }
+
