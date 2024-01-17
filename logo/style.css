@@ -1,0 +1,20 @@
+ 
+  .centered-image {
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    transform: center;
+    align-content: center;
+    transform: rotateY('angle');
+    box-sizing: content-box;
+  }
+
+  .w9{
+    width: 9%;
+  }
+
+.skill img{
+    width: 100px;
+    align-content: center;
+    transform: rotateX('angle');
+}
